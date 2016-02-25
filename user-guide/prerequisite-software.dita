@@ -3,7 +3,7 @@
 <!--This file is part of the DITA Open Toolkit project. See the accompanying LICENSE.md file for applicable licenses.-->
 
 <concept id="prerequisite-software">
-  <title>Prerequisite software</title>
+  <title>Pre-requisite software</title>
   <shortdesc>The prerequisite software that the DITA-OT requires depends on the types of transformations that you want
     to use.</shortdesc>
   <conbody>
